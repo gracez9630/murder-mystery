@@ -1,0 +1,1 @@
+/*says how the uncle found the grandparent's dead bodies and then would have 2 choices, I'd like it if you can create the 2 files investigate and ask people in whatever file name you want it to be*/
