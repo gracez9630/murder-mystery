@@ -1,0 +1,1 @@
+/*talks about staying inside the grandparent's house while also introducing the cousin, second cousin, aunt, and uncle, they'd sleep and they would have to go to the next md known as firstvictims.md to learn that the grandparents died.*/
