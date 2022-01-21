@@ -3,5 +3,5 @@ You decide to hit the hay and go to bed for the night. Those few hours of peace 
 
 Looks like you were wrong in your deductions. Another vote must be held! You all assemble in the main room for debate. Who will you vote for?   
 
-[Vote second cousin]()
+[Vote second cousin]()   
 [Vote aunt]()
