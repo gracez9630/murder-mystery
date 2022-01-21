@@ -1,2 +1,3 @@
 The authorities arrive and arrest the person you voted for. After a stressful day, everyone retires to their rooms for bed, somewhat relieved that the culprit was caught.
-You wake up the next morning to screaming. Another member of the family has been killed! 
+You wake up the next morning to screaming. Another member of the family has been killed!  
+
