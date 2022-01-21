@@ -5,4 +5,4 @@ However, the name has been smudged/blurred out, so the player couldn't figure ou
 Later on, the police arrives at the house:
 
      
-[Meet up with everyone]()
+[Meet up with everyone](firstvote.md)
