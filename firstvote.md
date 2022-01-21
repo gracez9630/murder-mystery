@@ -2,7 +2,7 @@ Once the police arrives, the group discuss who they believe is the most suspicio
 
 Who do you vote?
 
-[vote cousin](../uncledeath.md)
+[vote cousin](uncledeath.md)
 
 [vote second cousin](endings/badend1.md)
 
