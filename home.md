@@ -7,4 +7,4 @@ It was a long day, so the party decides to sleep in 3 different rooms:
 * Room 2 included the aunt and uncle
 * Room 3 included the grandparents
 
-[next](firstvictims.md)
+[next](first/firstvictims.md)
