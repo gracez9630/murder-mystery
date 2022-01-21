@@ -1,1 +1,10 @@
-/*talks about staying inside the grandparent's house while also introducing the cousin, second cousin, aunt, and uncle, they'd sleep and they would have to go to the next md known as firstvictims.md to learn that the grandparents died.*/
+
+During a storm, the player stays with their grandparents including the cousin, second cousin, aunt, and uncle.
+
+It was a long day, so the party decides to sleep in 3 different rooms:
+
+* Room 1 included the player and the cousins
+* Room 2 included the aunt and uncle
+* Room 3 included the grandparents
+
+[next](firstvictims.md)
