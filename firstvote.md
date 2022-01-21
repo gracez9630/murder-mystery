@@ -4,8 +4,8 @@ Who do you vote?
 
 [vote cousin]()
 
-[vote second cousin](badend1.md)
+[vote second cousin](../badend1.md)
 
-[vote aunt](goodend.md)
+[vote aunt](../goodend.md)
 
 [vote uncle]()
