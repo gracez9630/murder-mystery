@@ -1,4 +1,4 @@
-After a few more hours past by, the group got together and decided to cast a vote on who they believe is the killer.
+Once the police arrives, the group discuss who they believe is the most suspicious.
 
 Who do you vote?
 

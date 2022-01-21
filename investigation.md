@@ -1,5 +1,8 @@
-The player decides to investigate the rooms, they find a will in the grandparents' room, stating that the inheritence will go to one of the cousins. 
-However, the name has been smudged/blurred out, so the player doesn't know who it is. They then have two choices:
+The player decides to investigate the 3 rooms, they find a will in room 3, stating that the grandparents intends for one of the cousins to inherit $5,000,000.
 
-[Keep exploring]()       
+However, the name has been smudged/blurred out, so the player couldn't figure out who it is.
+
+Later on, the police arrives at the house:
+
+     
 [Meet up with everyone]()
