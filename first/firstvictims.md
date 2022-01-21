@@ -9,6 +9,6 @@ Horrified, the player alert the others, causing them to call the police.
 
 Before the police arrives, the player decides to:
 
-[investigate](investigation.md)
+[investigate](../investigation.md)
 
-[interrogate](interrogation.md)
+[interrogate](../interrogation.md)
