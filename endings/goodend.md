@@ -6,4 +6,4 @@ After some questioning, it's revealed that the aunt was after the grandparents' 
 After all that stress, second cousin needs some time to themself, and some fresh air. They accompany the player back to their hometown, and the second cousin stays with a distant relative.
 You successfully caught the culprit!
 
-[Play again?](../README.md)
+[Try again?](../README.md)
