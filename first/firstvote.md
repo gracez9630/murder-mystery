@@ -8,4 +8,4 @@ Who do you vote?
 
 [vote aunt](../endings/goodend.md)
 
-[vote uncle]()
+[vote uncle](../cousin-death.md)
