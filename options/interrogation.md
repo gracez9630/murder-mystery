@@ -4,4 +4,4 @@ The cousins tell you that they heard someone get up late last night, but the ide
 
 Later on, the police arrives at the house:
 
-[Meet up with everyone](first/firstvote.md)
+[Meet up with everyone](..first/firstvote.md)
