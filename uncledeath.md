@@ -6,3 +6,4 @@ Looks like you were wrong in your deductions. Another vote must be held! You all
 [Vote second cousin](endings/badend2.md)
 
 [Vote aunt](endings/goodend.md)
+
