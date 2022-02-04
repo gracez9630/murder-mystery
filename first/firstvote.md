@@ -6,6 +6,6 @@ Who do you vote?
 
 [vote second cousin](../endings/badend1.md)
 
-[vote aunt](./endings/goodend.md)
+[vote aunt](../endings/goodend.md)
 
 [vote uncle]()
