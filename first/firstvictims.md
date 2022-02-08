@@ -1,4 +1,3 @@
-
 The next day...   
 
 The morning comes faster than you expected, you slept very soundly! You feel revitalized. It's already 10:30, you should probably wake everyone up for the morning meal. Your cousins, Aunt, and Uncle are woken by you, and then you go to your grandparents room, knocking gently.

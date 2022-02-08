@@ -1,4 +1,3 @@
-
 It was a dark, rainy night out. You were driving along your usual path home, exhausted from your job, when you noticed that your gas tank was almost empty. You still had a good distance to go before you got back to your house, there's no
 way you would make it like this! And you really don't want to sleep in your car...   
 
