@@ -1,4 +1,3 @@
-
 During a storm, the player stays with their grandparents including the cousin, second cousin, aunt, and uncle.
 
 It was a long day, so the party decides to sleep in 3 different rooms:
