@@ -4,7 +4,7 @@ In this project, we worked together in making a simple murder mystery game for t
 
 For our planning, we used google drawing to format how the game would go and which files would go to which. The google drawing can be found right below this:
 
-[Here](https://docs.google.com/drawings/d/1fpL5SujQWeUtHlQBFfyv8x0OTym80pSBic4VU2NjoKg/edit)
+[Here](https://docs.google.com/drawings/d/1fpL5SujQWeUtHlQBFfyv8x0OTym80pSBic4VU2NjoKg/edit?usp=sharing)
 
 To play our game, you can start with the link below this:
 
