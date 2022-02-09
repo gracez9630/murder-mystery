@@ -3,4 +3,6 @@ You thought that would be the end of it. You go to bed that night, confident in 
 
 You were *very* wrong in your choice, it looks like you've been murdered!
 
-[Try again?](../README.md)
+[Try again?](../home.md)
+
+[Back to Beginning?](README.md)

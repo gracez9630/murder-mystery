@@ -9,4 +9,6 @@ As you fall down, you could see a shadowy silhouette behind the player as their 
 You were *very* wrong in your choice, it looks like you've been murdered!
 
 
-[Try again?](../README.md)
+[Try again?](../home.md)
+
+[Back to Beginning?](../README.md)
