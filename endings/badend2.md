@@ -5,4 +5,4 @@ You were *very* wrong in your choice, it looks like you've been murdered!
 
 [Try again?](../home.md)
 
-[Back to Beginning?](README.md)
+[Back to Beginning?](../README.md)
